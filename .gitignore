@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/.env
+/.env.*
+!/.env.example
+/storage/logs
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/testing/*
+/storage/app/public
+/bootstrap/cache/*
+/public/storage
+.DS_Store
+._*
+/.phpunit.cache
